@@ -6,7 +6,7 @@ This repository is associated with the paper **[1]**. It includes the source fil
 
 The simulation results indicate that the new control-law design for Disturbance Observer Based Controllers (DOBCs) proposed in **[1]** may offer notable advantages in terms of control tuning simplicity and closed-loop performance.
 
-This repository aims to encourage other researchers to test and apply these results to their individual control problems. The repository provides sample code to build and compute the observer (DOB), to compute the DOB gain, as well as to compute the control-law matrices **[1]**.
+This repository aims to encourage other researchers to test and apply these results to their particular cases. The repository provides sample code to build and compute the observer (DOB), to compute the DOB gain, as well as to compute the control-law matrices **[1]**.
 
 ---
 
