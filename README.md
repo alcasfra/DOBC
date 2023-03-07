@@ -1,6 +1,6 @@
 # A New Method for Control Law Design in Disturbance Observer-Based Control
 
-This repository is associated with the paper **[1]**. It includes the source files that generated the simulations of Section 7 and, also, a novel application to the classical magnetic levitation benchmark control problem introduced in **[2]**.
+This repository is associated with the paper **[1]**. It includes the source files that generated the simulations of Section 7 and, also, an application to the classical magnetic levitation benchmark control problem introduced in **[2]**.
 
 ---
 
